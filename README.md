@@ -17,7 +17,3 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozcodev&show_icons=true&locale=en&layout=compact" alt="ozcodev" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozcodev&show_icons=true&locale=en" alt="ozcodev" /></p>
-
-

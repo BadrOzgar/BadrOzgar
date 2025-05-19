@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Shopify App Development**
 
-- 📫 How to reach me **business.ozgar@gmail.com**
+- 📫 How to reach me **badr@aydocode.com**
 
 <p align="left">
 </p>

@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Badr</h1>
 <h3 align="center">I do Code.💻</h3>
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BadrOzgar&theme=tokyonight)
-
 - 🔭 I’m currently working on **POS System using ElectronJs**
 
 - 🌱 I’m currently learning **RemixJS, NextJs, Cloud computing**
